@@ -1,2 +1,3 @@
-# ezel
-Ezel Language
+# The Ezel Language
+
+A brand new language.
